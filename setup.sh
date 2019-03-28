@@ -1,3 +1,4 @@
+# start
 sudo add-apt-repository ppa:kelleyk/emacs
 sudo apt-get upgrade
 sudo apt-get update
