@@ -2,7 +2,7 @@
 sudo add-apt-repository ppa:kelleyk/emacs
 sudo apt-get upgrade
 sudo apt-get update
-sudo apt isntall clang
+sudo apt install clang
 sudo apt-get install -y cmake
 sudo apt install git
 sudo apt-get install -y libclang-dev
