@@ -8,7 +8,7 @@ sudo apt install git
 sudo apt-get install -y libclang-dev
 sudo apt-chache search clang-format
 sudo apt-get install clang-format
-sudo apt-get install emacs
+sudo apt-get install emacs26
 
 cd ~
 git clone https://github.com/Bieliakov-Alex/emacs_config.git .emacs.d
