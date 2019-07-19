@@ -21,4 +21,4 @@ sudo make install
 pip install cpplint
 
 #setting up cpplint location
-sed "s/aleksss/$USER/" ~/.emacs.d/settings.org > ~/.emacs.d/settings.org
+sed -i "s/aleksss/$USER/" ~/.emacs.d/settings.org
