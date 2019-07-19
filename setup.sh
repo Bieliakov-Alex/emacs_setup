@@ -16,3 +16,6 @@ cd build
 cmake ..
 make
 sudo make install
+
+#setting up cpplint location
+sed "s/aleksss/$USER/" ~/.emacs.d/settings.org > ~/.emacs.d/settings.org
