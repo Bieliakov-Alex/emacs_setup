@@ -3,7 +3,7 @@ sudo add-apt-repository ppa:kelleyk/emacs
 sudo apt-get upgrade
 sudo apt-get update
 sudo apt-chache search clang-format
-sudo apt install -y clang cmake git libclang-dev clang-format python-pip emacs26
+sudo apt install -y clang cmake git libclang-dev clang-format python-pip python-autopep8 emacs26
 
 cd ~
 git clone https://github.com/Bieliakov-Alex/emacs_config.git .emacs.d
